@@ -8,7 +8,7 @@ import carribu2 from "../../assets/images/carribu.jpg";
 var list = [
   {
     id: 1,
-    name: "StarBucks",
+    name: "StarBucks 44",
     location: "Salmiya",
     distance: "5 kilometers",
     img: starbucks,
@@ -18,7 +18,7 @@ var list = [
   },
   {
     id: 2,
-    name: "Costa",
+    name: "Costa 44",
     location: "Salmiya",
     distance: "2.1 kilometers",
     img: costa,
@@ -29,7 +29,7 @@ var list = [
 
   {
     id: 3,
-    name: "Caribu",
+    name: "Caribu 44",
     location: "Salmiya",
     distance: "500 meters",
     img: carribu,
